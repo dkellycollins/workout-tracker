@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "workout-tracker-80424": {
+      "hosting": {
+        "app": [
+          "workout-tracker-80424"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "workout-tracker-80424"
+  }
+}
